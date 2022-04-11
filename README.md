@@ -1,6 +1,6 @@
 # ensemble_clustering
 
-An example of the use of clustering tecnhniques to study the scenarios of an ensemble forecast for the case of Hurricane Nadine (2012)
+Study the scenarios of an ensemble forecast for the case of Hurricane Nadine (2012) using clustering tecnhniques
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
